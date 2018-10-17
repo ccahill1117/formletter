@@ -1,7 +1,18 @@
+.jumbotron {
+  background-color: #57A55C;
+}
+
 .container-fluid {
   padding: 60px;
 }
 
 .formletter {
   display: none;
+  border-top: 2px solid black;
+  padding-top: 30px
+}
+
+.person-number {
+  font-weight: bolder;
+  color: blue;
 }
